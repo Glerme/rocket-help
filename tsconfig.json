@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": false,
+    "allowSyntheticDefaultImports": true
+  },
+  "extends": "expo/tsconfig.base"
+}
